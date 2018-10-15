@@ -15,3 +15,4 @@ public class MainFrame extends JFrame {
         setLocationRelativeTo(null);
     }
 }
+
